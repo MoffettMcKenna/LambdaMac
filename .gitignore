@@ -3,6 +3,7 @@
 
 # ignore input and output files
 *.txt
+*.csv
 *.json
 
 # Byte-compiled / optimized / DLL files
